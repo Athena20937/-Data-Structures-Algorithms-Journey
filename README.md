@@ -1,4 +1,3 @@
-# -Data-Structures-Algorithms-Journey
 # 🚀 Data Structures & Algorithms Journey
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Athena20937/)
