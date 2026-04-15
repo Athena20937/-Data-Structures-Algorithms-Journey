@@ -4,7 +4,7 @@ class Solution:
         result = 0
         n = len(s)
         for i in range (n):
-            if i < n-1 and dict[s[i]] < dict[s[i +1]]:
+            if dict[s[i]] < dict[s[i +1]]:
                 result -= dict[s[i]]
             else:
                 result += dict[s[i]]
