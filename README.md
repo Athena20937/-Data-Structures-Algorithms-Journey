@@ -29,4 +29,8 @@ A comprehensive collection of my solutions for LeetCode and HackerRank problems,
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0058-length-of-last-word/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
