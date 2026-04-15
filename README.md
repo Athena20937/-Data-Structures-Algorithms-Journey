@@ -25,4 +25,8 @@ A comprehensive collection of my solutions for LeetCode and HackerRank problems,
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0001-two-sum/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0058-length-of-last-word](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0058-length-of-last-word/) | Easy |
 <!---LeetCode Topics End-->
