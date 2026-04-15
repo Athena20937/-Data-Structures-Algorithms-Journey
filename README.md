@@ -21,6 +21,7 @@ A comprehensive collection of my solutions for LeetCode and HackerRank problems,
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0001-two-sum/) | Easy |
+| [0035-search-insert-position](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0035-search-insert-position/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,4 +37,8 @@ A comprehensive collection of my solutions for LeetCode and HackerRank problems,
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0013-roman-to-integer/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
