@@ -21,6 +21,7 @@ A comprehensive collection of my solutions for LeetCode and HackerRank problems,
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0066-plus-one/) | Easy |
 ## Hash Table
@@ -32,6 +33,7 @@ A comprehensive collection of my solutions for LeetCode and HackerRank problems,
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0058-length-of-last-word/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -44,4 +46,8 @@ A comprehensive collection of my solutions for LeetCode and HackerRank problems,
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0035-search-insert-position/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
