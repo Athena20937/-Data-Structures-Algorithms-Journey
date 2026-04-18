@@ -24,6 +24,7 @@ A comprehensive collection of my solutions for LeetCode and HackerRank problems,
 | [0014-longest-common-prefix](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0066-plus-one/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,4 +51,8 @@ A comprehensive collection of my solutions for LeetCode and HackerRank problems,
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0014-longest-common-prefix/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
