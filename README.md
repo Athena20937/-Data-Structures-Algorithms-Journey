@@ -22,6 +22,7 @@ A comprehensive collection of my solutions for LeetCode and HackerRank problems,
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0014-longest-common-prefix/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0066-plus-one/) | Easy |
@@ -61,6 +62,7 @@ A comprehensive collection of my solutions for LeetCode and HackerRank problems,
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0027-remove-element/) | Easy |
 | [0344-reverse-string](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Athena20937/-Data-Structures-Algorithms-Journey/tree/main/0977-squares-of-a-sorted-array/) | Easy |
